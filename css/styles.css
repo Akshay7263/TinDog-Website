@@ -1,0 +1,173 @@
+
+
+#title{
+      color:white;
+           background-color: #ff4c68;
+
+}
+
+.ham{
+    font-family: 'Montserrat', sans-serif;
+   
+    line-height: 1.5;
+      font-size: 3.5rem;
+}
+
+.db{
+  
+
+    padding-top: 3%;
+    padding-right: 15%;
+    padding-left: 15%;
+    padding-bottom: 3%;
+
+}
+
+body{
+  font-family: "Montserrat";
+}
+
+#nb
+{
+  font-family: 'Ubuntu', sans-serif;;
+      
+  font-size: 2.5rem;
+  font-weight:bold;
+}
+
+
+    .nabar {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 0;
+    padding-bottom:4.5rem;
+    }
+  .nav-item{
+    padding:0 18px;
+  }
+  .nav-link{
+    font-size:1.2rem;
+    font-family:'montserrat-light'
+  }
+
+  .dbottom{
+
+    margin: 5% 3% 5% 0;
+  }
+.titleimg
+{
+  width:60%;
+    transform: rotate(25deg);
+    position: absolute;
+  
+    right:5%;
+}
+#features{
+  padding:7% 15%;
+  background-color:white;
+  position:relative;
+  z-index:1;
+  
+
+  
+}
+.fbox{
+  text-align:center;
+  padding:4.5%;
+  padding-top:3%;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  color :#8f8f8f;
+}
+.icon{
+  color:#ef8172;
+  margin-bottom:1rem;
+   
+}
+.icon:hover{
+
+ color:#ff4c68;
+}
+
+#testimonials{
+
+  text-align:center;
+  background-color:#ff4c68;
+  color:white;
+}
+.hm{
+  font-family: "montserrat-Bold";
+  font-size: 3rem;
+  line-height:1.5;
+}
+
+.testtimonials-image{
+  width:10%;
+  border-radius:100%;
+  margin:5%;
+}
+
+#press{
+background-color:#ff4c68;
+text-align:center;
+padding-bottom:3%;
+}
+.press-logo{
+  width:15%;
+  margin: 20px 20px 50px;
+}
+#pricing{
+  padding:100px;
+
+}
+.pricing-column{
+  padding:3% 2%;
+  text-align:center;
+}
+
+.carousel-item{
+  padding:7% 25%;
+}
+@media (max-width:1028px){
+  #title{
+    text-align:center;
+  }
+  
+  .titleimg{
+    position:static;
+    transform:rotate(0);
+  }
+}
+
+#cta{
+  background-color:#ff4c68;
+  padding:7% 25%;
+  color : #fff;
+  text-align:center;
+
+
+}
+.hhh{
+  font-size:3.5rem;
+  font-family:"monserrat-black";
+  line-height:1.5;
+}
+ #footer{
+  
+  padding:7% 25%;
+  text-align:center;
+}
+.soi{
+  margin:20px 10px;
+}
